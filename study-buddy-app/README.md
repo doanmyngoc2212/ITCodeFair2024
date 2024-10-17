@@ -1,0 +1,2 @@
+# seany-ai
+Seany AI
